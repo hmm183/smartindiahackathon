@@ -1,0 +1,2035 @@
+160
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+[PART II—SEC. 3(i)]
+
+MINISTRY OF LABOUR AND EMPLOYMENT
+NOTIFICATION
+New Delhi, the 27th November, 2017.
+G.S.R. 1449(E).—Whereas the draft of certain regulations which the Central Government proposes
+to make, in exercise of the powers conferred by section 57 of the Mines Act, 1952 (35 of 1952) and on the
+recommendations of the Committee constituted under section 12 of the said Act, were published in the
+Gazette of India, Extraordinary, Part II, section 3, sub-section (i), vide number G.S.R. 773 (E), dated the
+20th October, 2011, as required by sub-section (1) of section 59 of the said Act, inviting objections and
+suggestions from all persons likely to be affected thereby on or before the expiry of a period of three
+months from the date of publication of the said notification in the Official Gazette;
+And whereas the objections and suggestions received on the said draft have been considered by the
+Central Government;
+Now, therefore, in exercise of the powers conferred by section 57 of the said Act and in
+supersession of the Coal Mines Regulations, 1957, the Central Government hereby makes the following
+regulations, namely:CHAPTER I
+PRELIMINARY
+1. Short title, commencement, application and extent.-(1) These regulations may be called the Coal
+Mines Regulations, 2017.
+(2) They shall come into force on the date of their publication in the Official Gazette.
+(3) They shall apply to every coal mine.
+(4) They shall extend to the whole of India.
+2. Definitions.- (1)
+
+In these regulations, unless the context otherwise requires, -
+
+(a)
+
+“abandoned working” means such working as have been abandoned with no intention of working
+in future;
+
+(b)
+
+“Abandoned Mine Methane (AMM)” means a natural gas recovered from abandoned coal mines
+or part thereof;
+
+(c)
+
+“Act” means the Mines Act, 1952 (35 of 1952);
+
+(d)
+
+“approved safety lamp” and “approved electric torch” mean respectively, a safety lamp or an
+electric torch, manufactured by such firm and of such type as the Chief Inspector may, from time
+to time, specify by a general or special order;
+
+(e)
+
+“assistant manager” means a person possessing a Manager’s Certificate appointed in writing by
+the owner, agent or manager to assist the manager in the management, control, supervision and
+direction of the mine or part thereof, and who holds the rank immediately below the manager and
+superior to an overman and a sirdar;
+
+(f)
+
+“auxiliary fan” means a forcing fan or an exhausting fan used belowground wholly or mainly for
+ventilating one or more faces forming part of a ventilating district;
+
+(g)
+
+“average output” of any mine, means the average output per month during the preceding financial
+year of the total output from all workings within the specified mine boundaries;
+
+(h)
+
+“banksman” means a person appointed to superintend the lowering and raising of persons, tools
+and materials and to transmit signals at the top of a shaft or incline;
+
+(i)
+
+“booster fan” means a mechanical ventilator used belowground for boosting the whole current of
+air passing along the intake or return airway of a mine or ventilating district;
+
+(j)
+
+“coal” includes anthracite, bituminous coal, lignite, peat and any other form of carbonaceous
+matter sold or marketed as coal;
+
+(k)
+
+“Coal Mine Methane (CMM)” means a natural gas recovered from a coal mine or part thereof;
+
+¹Hkkx IIµ[k.M 3(i)º
+
+Hkkjr dk jkti=k % vlk/kj.k
+
+161
+
+(l)
+
+“Committee” means a committee appointed under section 12 of the Act;
+
+(m)
+
+“competent person” in relation to any work or any machinery, plant or equipment means a person
+who has attained the age of twenty years and who has been duly appointed in writing by the
+manager as a person competent to supervise or perform that work, or to supervise the operation of
+that machinery, plant or equipment, and who is responsible for the duties assigned to him, and
+includes a shot firer;
+
+(n)
+
+“contractor” means an individual, association of individuals, company, firm, local authority or
+local body who provides for the services or operations in a mine on contract basis, and includes a
+sub-contractor;
+
+(o)
+
+“deep-hole drilling and blasting” means drill holes more than three meters in depth and used for
+blasting in an opencast mining operation;
+
+(p)
+
+“designer” means an individual, association of individuals, company or institution who designs a
+coal mining system, method of coal mining, machinery, plant, equipment, appliance or substances
+for use in coal mines;
+
+(q)
+
+“discontinued working” means such working in a mine as have been discontinued for any reason
+and are inaccessible or rendered inaccessible but are likely to be worked again;
+
+(r)
+
+“District Magistrate” in relation to any mine, means the District Magistrate or the Deputy
+Commissioner, as the case may be, who is vested with the executive powers of maintaining law
+and order in the revenue district in which the mine is situated:
+Provided that in the case of a mine, which is situated partly in one district and partly in
+another, the District Magistrate for the purpose of these regulations shall be the District
+Magistrate authorised in this behalf by the Central Government;
+
+(s)
+
+“disused working” means such working in a mine where work has been temporarily stopped, but
+which are accessible and include unused working;
+
+(t)
+
+“explosive” shall have the same meaning as is assigned to it in the Explosives Act, 1884 (4 of
+1884);
+
+(u)
+
+“face” means the moving front of any working place or the inbye end of any gallery, roadway or
+drift;
+
+(v)
+
+“fiery seam” means a seam in which a fire or spontaneous heating exists in the working
+belowground or in open cast workings lying within the precincts of a mine;
+
+(w)
+
+“financial year” means a period of twelve months from the first day of April to the last day of
+March of the successive year;
+
+(x)
+
+“flame proof enclosure” shall have the same meaning as defined under the Central Electricity
+Authority (Measures Relating to Safety and Electric Supply) Regulations, 2010;
+
+(y)
+
+“Form” means a form as may be specified by an order or instruction by the Chief Inspector under
+these regulations;
+
+(z)
+
+“gas” includes fume or vapour;
+
+(za)
+
+“gassy seam of the first degree” means a coal seam or part thereof lying within the precincts of a
+mine not being an open cast working whether or not inflammable gas is actually detected in the
+general body of the air at any place in its workings below ground, or when the percentage of the
+inflammable gas, if and when detected, in such general body of air does not exceed 0.1 and the
+rate of emission of such gas does not exceed one cubic meter per tonne of coal produced;
+
+(zb)
+
+“gassy seam of the second degree” means a coal seam or part thereof lying within the precincts of
+a mine not being an open cast working in which the percentage of inflammable gas in the general
+body of air at any place in the workings of the seam is more than 0.1 or the rate of emission of
+inflammable gas per tonne of coal produced exceeds one cubic meter but does not exceed ten
+cubic meters;
+
+162
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+[PART II—SEC. 3(i)]
+
+(zc)
+
+“gassy seam of the third degree” means a coal seam or part thereof lying within the precincts of a
+mine not being an open cast working in which the rate of emission of inflammable gas per tonne
+of coal produced exceeds ten cubic meters;
+
+(zd)
+
+“general body of air” means the general atmosphere in a coal seam and includes the atmosphere
+in the roof cavities, but does not include general atmosphere in the sealed off area or in any
+borehole drilled in coal or in the adjacent strata;
+
+(ze)
+
+“goaf” means any part of workings below ground wherefrom a pillar or part thereof, or in the case
+of longwall workings, coal has been extracted but which is not a working place;
+
+(zf)
+
+“haul road” means any passage or road, which is maintained and used in connection with the
+working of opencast mines for plying of machinery within the precincts of a mine;
+
+(zg)
+
+“Heavy Earth Moving Machinery (HEMM)” means machinery used in opencast mines for
+digging, drilling (excluding hand held drills and drill machines capable of drilling hole of a
+diameter up to 50 mm), dredging, hydraulicking, ripping, dozing, grading, excavating, loading or
+transporting minerals or overburden;
+
+(zh)
+
+“incline” means an inclined passage or road either on the surface or belowground;
+
+(zi)
+
+“intrinsically safe” shall have the same meaning as defined under the Central Electricity
+Authority (Measures Relating to Safety and Electric Supply) Regulations, 2010;
+
+(zj)
+
+“inset” means a landing or platform in a shaft, and includes an excavation therefrom between the
+top and the bottom of the shaft;
+
+(zk)
+
+“machinery” means –
+(i)
+
+any locomotive or any stationary or portable engine, air compressor, boiler or steam
+apparatus which is, or
+
+(ii)
+
+any such equipment used for cutting, drilling, loading and transport of material which is, or
+
+(iii)
+
+any such apparatus, appliance or combination of appliances intended for developing,
+storing, transmitting, converting or utilizing energy which is, or
+
+(iv)
+
+any such apparatus, appliance or combination of appliances if any power is developed,
+stored, transmitted, converted or utilised thereby is,
+
+used or intended for use in connection with mining operations;
+(zl)
+
+“manager” means a manager appointed under regulation 27;
+
+(zm)
+
+“manufacturer” means an individual, association of individuals, company or institution who
+manufactures machinery, plant, equipment, appliance or substances for use in coal mines;
+
+(zn)
+
+“material” includes coal, stone, debris, or any other material;
+
+(zo)
+
+“mine”, for the purpose of chapter IV under these regulations, means all excavations within the
+mine boundary and all premises, plants, machinery and works as specified in clause (j) of sub
+section (1) of Section 2 of the Act and the same shall collectively constitute a mine;
+
+(zp)
+
+“misfire” means the failure to explode of an entire charge of explosives in a shot hole or blast
+hole;
+
+(zq)
+
+“month” means a calendar month;
+
+(zr)
+
+“official” means a person appointed in writing by the owner, agent or manager to perform duties
+of supervision in a mine or part thereof and includes an assistant manager, a ventilation officer, a
+safety officer, a sampling incharge, a dust in- charge, an overman, a sirdar, an engineer and a
+surveyor;
+
+(zs)
+
+“onsetter” means a person appointed to superintend the raising and lowering of persons, tools and
+materials and to transmit signals at any inset or shaft bottom;
+
+(zt)
+
+“overman” means a person possessing a Manager’s or Overman’s Certificate, appointed by the
+manager in writing, under any designation whatsoever, to perform the duties of supervision or
+control in a mine or part thereof, and is as such superior to a sirdar;
+
+¹Hkkx IIµ[k.M 3(i)º
+
+Hkkjr dk jkti=k % vlk/kj.k
+
+163
+
+(zu)
+
+“permitted explosive” means an explosive manufactured by such firm and of such types as the
+Chief Inspector may, from time to time specify by a general or special order;
+
+(zv)
+
+“pipeline” means a pipeline laid or being used in a mine for the purpose of pumping or supply of
+water, sand stowing or filling of material other than sand stowing, nitrogen flushing or for any
+other purpose including extraction of Coal Mine Methane (CMM), Abandoned Mine Methane
+(AMM) and other associated pipelines;
+
+(zw)
+
+“principal official” means the senior-most mine official in mining discipline on duty in the mine;
+
+(zx)
+
+“public road” means a road maintained for public use and under the jurisdiction of any
+Government or local authority;
+
+(zy)
+
+“quarter” means a period of three months ending on the 31st March, 30th June, 30th September and
+31st December;
+
+(zz)
+
+“railway” means a railway as defined in the Railways Act, 1989 (24 of 1989);
+
+(zza)
+
+“Regional Inspector” means an Inspector of Mines having jurisdiction over a geographical area in
+which the mine is situated and over which he exercises his powers under the Act;
+
+(zzb)
+
+“river” means any stream or current of water, whether seasonal or perennial, and includes its
+banks extending up to the highest known flood level;
+
+(zzc)
+
+“risk” means combination of likelihood of a specific unwanted event and its potential
+consequences;
+
+(zzd)
+
+“roadway” means any part of a passage or gallery below ground which is maintained in
+connection with the working of a mine;
+
+(zze)
+
+“Schedule” means a Schedule appended to these regulations;
+
+(zzf)
+
+“shaft” means a way or opening leading from the surface to workings below ground or from one
+part of the workings belowground to another, in which a cage or other means of conveyance can
+travel freely suspended, with or without the use of guides;
+
+(zzg)
+
+“shot-firer” means a person so appointed under regulation 190;
+
+(zzh)
+
+“socket” means a shot hole or blast hole or part thereof remaining after being charged with
+explosive and blasted, and which is not known to be a misfired hole;
+
+(zzi)
+
+“supplier” means an individual, association of individuals, company or institution who supplies a
+technology, machinery, plant, equipment, appliance or substance for use in coal mines;
+
+(zzj)
+
+“tub” includes a wagon, car, truck or any other vehicle moving on rail(s) for conveying materials;
+
+(zzk)
+
+“ventilation district” means such part of a mine belowground as has an independent intake airway
+commencing from a main intake airway, and an independent return airway terminating at a main
+return airway, and, in the case of a mine or part thereof which is ventilated by natural means, the
+whole mine or part;
+
+(zzl)
+
+“working” means any excavation made or being made in a mine for search of or obtaining coal;
+
+(zzm)
+
+“working place” means any place in a mine to which any person has lawful access.
+
+(2) Words and expressions used in these regulations and not defined herein but defined in the Act shall
+have the meanings respectively assigned to them under the Act.
+CHAPTER II
+RETURNS, NOTICES AND RECORDS
+3. Notice of opening.- (1) The notice for commencement of any mining operation under section 16 of the
+Act shall be submitted in the Form and method as may be specified by the Chief Inspector for the purpose,
+accompanied by a plan showing the boundaries of the mine and the shafts or openings of the mine, trijunction or revenue pillars and other prominent and permanent surface features to the Chief Inspector and a
+copy thereof to the Regional Inspector:
+
+164
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+[PART II—SEC. 3(i)]
+
+Provided that in case of change in the boundary of a mine under regulations 121 and 122, a plan
+showing the new boundary shall be submitted within seven days of the said change.
+(2)
+
+The notice referred to in sub-regulation (1) shall be accompanied by,(a)
+
+a copy of the surface plan prepared under clause (a) of sub-regulation (1) of regulation 65;
+
+(b)
+
+a copy of Safety Management Plan prepared under regulation 104:
+
+Provided that in respect of a mine which has already been opened, the plan referred to in clauses (a)
+and (b) shall be submitted within sixty days and one year respectively of coming into force of these
+regulations.
+(3)
+When a mine has been opened, the owner, agent or manager shall forthwith communicate the
+actual date of opening to the Chief Inspector, the Regional Inspector and to the District Magistrate.
+4. Annual returns.- (1) On or before 1st day of February in every year, the owner, agent or manager shall
+submit to the Chief Inspector,the Regional Inspectorand to the District Magistrate annual returns in respect
+of the preceding year in the Form and method as may be specified by the Chief Inspector for the purpose.
+(2) If a mine is abandoned or closed or workings thereof is discontinued over a period exceeding sixty days
+or if a change occurs in the ownership of a mine, the returns required under sub-regulation (1) shall be
+submitted within thirty days of such abandonment or closure or change of ownership or within ninety days
+of discontinuance, as the case may be.
+5. Notice of abandonment, closure or discontinuance.- (1) When it is intended to abandon or close a
+mine or seam or to discontinue workings thereof for a period exceeding sixty days, the owner, agent or
+manager shall give a notice in the Form and method as may be specified by the Chief Inspector for the
+purpose, to the Chief Inspector, the Regional Inspector and to the District Magistrate stating the reasons for
+such abandonment, closure or discontinuance and the number of persons likely to be affected thereby, not
+less than thirty days before such abandonment or discontinuance:
+Provided that when on account of unforeseen circumstances a mine is abandoned, closed or
+discontinued before the said notice has been given or without previous intention the discontinuance extends
+beyond a period of sixty days, the notice shall be given forthwith.
+(2) Notwithstanding anything contained in sub-regulation (1), when it is intended to abandon, close or
+discontinue for more than sixty days any working belowground over which is situated any property vested
+in the Government or any local authority or any railway or any building or permanent structure not
+belonging to the owner, the owner, agent or manager shall, not less than thirty days before the date of such
+abandonment, closure or discontinuance give notice of his intention to the Chief Inspector and the
+Regional Inspector.
+(3) When a mine or seam has been abandoned, closed or the workings thereof has been discontinued over a
+period exceeding sixty days, the owner, agent or manager shall, within seven days of the abandonment,
+closure or expiry of the said period of discontinuance, give to the Chief Inspector, the Regional Inspector
+and to the District Magistrate, notice in the Form and method as may be specified by the Chief Inspector
+for the purpose.
+6. Notice of reopening.- (1) When it is intended to reopen a mine or seam after abandonment, closure or
+discontinuance for a period exceeding sixty days, the owner, agent or manager shall, not less than thirty
+days before resumption of mining operations, give to the Chief Inspector, the Regional Inspector and to the
+District Magistrate notice in the Form and method as may be specified by the Chief Inspector for the
+purpose.
+(2) When a mine has been reopened, the owner, agent or manager of the mine shall forthwith communicate
+the actual date of the reopening to the Chief Inspector, the Regional Inspector and to the District
+Magistrate.
+7. Notice of change in ownership and appointment of agent, manager, etc.- (1) When a change occurs
+in the name or ownership of a mine or in the address of the owner, the owner, agent or manager shall,
+within seven days from the date of the change, give to the Chief Inspector and the Regional Inspector a
+notice in the Form and method as may be specified by the Chief Inspector for the purpose:
+
+¹Hkkx IIµ[k.M 3(i)º
+
+Hkkjr dk jkti=k % vlk/kj.k
+
+165
+
+Provided that where the owner of a mine is a firm or other association of individuals, a change –
+(i)
+
+of any partner in the case of a firm;
+
+(ii)
+
+of any member in the case of an association;
+
+(iii)
+
+of any director in the case of a public company; or
+
+(iv)
+
+of any shareholder in the case of a private company,
+
+shall also be intimated to the Chief Inspector and the Regional Inspector, within seven days from the
+date of the change.
+(2) When the ownership of a mine is transferred, the previous owner or his agent shall make over to the
+new owner or his agent, within a period of seven days of the transfer of ownership, all plans, sections,
+reports, registers and other records maintained in pursuance of the Act and of the regulations, or orders
+made thereunder, and all correspondence relating to the working of the mine relevant thereto; and when the
+requirements of this clause have been duly complied with, both the previous and the new owners or their
+respective agents shall forthwith inform the Chief Inspector and the Regional Inspector in writing.
+(3) When any appointment is made of an agent, manager, engineer, surveyor, ventilation officer, safety
+officer, or assistant manager or when the employment of any such person is terminated or any such person
+leaves the said employment, or when any change occurs in the address of any agent or manager, the owner,
+agent or manager shall, within seven days from the date of such appointment, termination or change, give
+to the Chief Inspector and the Regional Inspector a notice in the Form and method as may be specified by
+the Chief Inspector for the purpose.
+(4) The owner of a mine shall submit in writing to the Chief Inspector and the Regional Inspector, a
+statement showing the name and designation of every person authorised to act on behalf of the owner in
+respect of management, control, supervision or direction of the mine.
+(5) The statement referred to in sub-regulation (4) shall state the responsibilities of every such person and
+the matters in respect of which he is authorised to act on behalf of the owner.
+(6) Every person referred to in sub-regulation (4) shall be an agent for the mine or group of mines, as the
+case may be, in respect of the responsibilities as specified in the statement referred therein.
+(7) Any change, addition or alteration in the names or other particulars of the statement referred to in subregulation (4) shall be reported in writing to the Chief Inspector and Regional Inspector within seven days
+from the date of change, addition or alteration.
+8. Notice of dangerous occurrence or accident.- (1) When there occurs in or about a mine,
+(a)
+
+an accident causing loss of life or serious bodily injury in connection with any mining operation; or
+
+(b)
+
+a readily identifiable event with potential to cause an injury to persons at work, hereinafter referred
+to as “dangerous occurrence”, such as –
+(i)
+
+an explosion or ignition;
+
+(ii)
+
+a spontaneous heating or outbreak of fire, or appearance of smoke, or other indication of
+heating or outbreak of fire;
+
+(iii)
+
+fire in any part of workings or in any machinery;
+
+(iv)
+
+fall from height of any excavation, loading or transport machinery;
+
+(v)
+
+bursting of equipment under pressure;
+
+(vi)
+
+an influx of inflammable or noxious gases;
+
+(vii) an irruption or inrush of water or other liquid matter;
+(viii) an instantaneous failure of a pillar, part of a pillar or several pillars of coal (i.e., a ‘bump’) in
+working below ground;
+(ix)
+
+a premature collapse of any part of the working;
+
+(x)
+
+any accident due to explosives;
+
+(xi)
+
+a breakage or fracture of rope, chain, headgear, pulley or axle or bearing thereof, or other
+gear by which persons or materials are lowered or raised;
+
+166
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+[PART II—SEC. 3(i)]
+
+(xii) an over winding of cages or other means of conveyance while men or materials are being
+lowered or raised;
+(xiii) a breakage or fracture of an essential part of winding engine, crankshaft, coupling, bearing,
+gearing, clutch, drum or drum shaft, or failure of emergency brake;
+(xiv) a bursting of any equipment containing steam, compressed air or other substance at high
+pressure;
+(xv) a breakage, fracture or failure of an essential part of any machine or apparatus whereby the
+safety of persons may be endangered;
+(xvi) a slide causing injury to any person, damage to any machinery, or interruption of normal
+mining operations;
+(xvii) failure of dump or side in opencast working;
+(xviii) a failure of any structure or installation whereby the safety of persons may be endangered; or
+(xix) spark generated due to electrical flash-over causing burn injury to any person,
+the owner, agent or manager shall forthwith inform the Regional Inspector about the occurrence by
+telephone, fax, e-mail or by special messenger; and shall also, within twenty-four hours of every
+such occurrence, give notice thereof in the Form and method as may be specified by the Chief
+Inspector for the purpose, to the District Magistrate, the Chief Inspector and the Regional Inspector
+and in the case of an accident mentioned in clause (a), also to the Competent Authority for payment
+of compensation:
+Provided that in case such notice is sent by e-mail, it shall be immediately followed by fax or letter.
+(2) The owner, agent or manager shall simultaneously exhibit a copy of the notice referred to in subregulation (1) on a special notice board at the office of the mine for a period of not less than fourteen days
+from the date of such exhibition.
+(3) When an accident causing loss of life, serious bodily injury or burn injury occurs in or about a mine in
+connection with the generation, storage, transformation, transmission, supply or use of electrical energy,
+the owner, agent or manager shall also forthwith inform the Inspector of Mines (Electrical) by telephone,
+fax, e-mail or by special messenger:
+Provided that in case such notice is sent by e-mail, it shall be immediately followed by fax or letter.
+(4) If death results from any injury already reported as serious under sub-regulation (1) or if an injury other
+than the serious injury becomes serious, the owner, agent or manager shall within twenty-four hours of his
+being informed of the same, give notice thereof to the District Magistrate, the Chief Inspector, the Regional
+Inspector and to the Competent Authority for payment of compensation and, if such death or injury is
+connected with any reason as specified under sub-regulation (3), also to the Inspector of Mines (Electrical).
+(5) In respect of every persons killed or injured as above, the owner, agent or manager shall send particulars
+in the Form and method as may be specified by the Chief Inspector for the purpose, within seven days of
+the occurrence, and also within fifteen days of the injured person returning to duty.
+9. Notice of disease.- Where any person employed in a mine contracts any disease notified by the Central
+Government in the Official Gazette under section 25 of the Act, the owner, agent or manager shall within
+three days of his being informed of the disease, give notice thereof in the Form and method as may be
+specified by the Chief Inspector for the purpose, to the Chief Inspector, the Regional Inspector, the
+Inspector of Mines (Medical), the District Magistrate, and to the Competent Authority for payment of
+compensation.
+CHAPTER III
+EXAMINATION AND CERTIFICATES OF COMPETENCY AND OF FITNESS
+10. Board of Mining Examination.- (1) For the purpose of these regulations, there shall be constituted a
+Board of Mining Examination (hereinafter referred to as ‘the Board’).
+(2)
+The Board shall consist of the Chief Inspector, who shall be its Chairman (ex officio), and five
+members possessing degree in mining engineering; with
+
+¹Hkkx IIµ[k.M 3(i)º
+
+Hkkjr dk jkti=k % vlk/kj.k
+
+167
+
+(a)
+
+first class Manager’s Certificate granted under regulation 11; or
+
+(b)
+
+practical experience of not less than two years in management, control, supervision and
+direction of a coal mine or part thereof; or
+
+(c)
+
+service in an institution imparting education in mining engineering at the degree or
+equivalent level; or
+
+(d)
+
+engagement in mining research or planning,
+
+to be appointed by the Central Government:
+Provided that the Board shall be so constituted that it shall include at least three members
+possessing qualifications laid down in clauses (a) and (b) and at least one member possessing qualifications
+laid down either in clause (c) or in clause (d).
+(3)
+Every member of the Board other than its Chairman shall hold office for a period of three years
+from the date of appointment, or until his successor is appointed, whichever is later:
+Provided that,–
+(i) a member may at any time resign his office by a notice in writing addressed to the Chairman;
+(ii) a member appointed under clause (c) of sub-regulation (2) shall cease to hold office upon his
+ceasing to serve in any such institution, as is referred to in that clause;
+(iii) a person appointed to fill a vacancy caused by reason of the death, resignation, or by reason of
+cessation of office under sub-clause (ii) or otherwise, shall hold office for the remaining
+period for which such member would have, but for such reason, continued as member.
+(4) A person who holds, or who has held, office as member of the Board shall, subject to the other
+provisions of this regulation, be eligible for re-appointment to that office.
+(5) A member of the Board other than the Chairman shall receive such remuneration as the Central
+Government may fix.
+(6) An Inspector nominated in this behalf by the Chief Inspector shall act as the Secretary to the Board
+(hereinafter referred to in these regulations as the Secretary).
+(7) Notwithstanding anything contained in this regulation, the Central Government may, if satisfied that it
+is necessary to do so in the public interest, re-constitute the Board even though the term of office of all or
+any of the members thereof has not come to an end.
+(8) Meetings of the Board shall be held as and when the Chairman considers them necessary, and unless
+otherwise decided by the Chairman, all meetings of the Board shall be held at Dhanbad.
+(9)
+
+(a)
+
+For every meeting of the Board, not less than ten clear days prior notice intimating the time
+and place of the proposed meeting and signed by the Chairman or the Secretary shall be given
+to each member who is not absent from India.
+
+(b)
+
+Such notice shall be delivered at, or posted to the usual place of residence of the member, and
+each such notice shall be accompanied by a list of items of business to be disposed off at that
+meeting.
+
+(c)
+
+Notwithstanding anything contained in clauses (a) and (b), in cases of urgency, an emergent
+meeting may be called for by the Chairman at any time by intimating the members, only two
+days in advance, of the time and date of such meeting and the subject matter for discussion at
+such meeting.
+
+(10) (a)
+(b)
+
+The Chairman shall preside at every meeting of the Board.
+If the Chairman is absent for any reason, members present shall elect one from among
+themselves to preside over the meeting; and the member so elected shall, for the purposes of
+that meeting, have all powers of the Chairman.
+
+(11) No business shall be transacted at a meeting of the Board unless at least three members, including the
+Chairman, are present:
+Provided that if at any meeting there is no quorum as aforesaid, the meeting shall automatically
+stand adjourned to a date which is seven days later or if that day is a public holiday to the next working day
+
+168
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+[PART II—SEC. 3(i)]
+
+and the time, place and agenda for the adjourned meeting shall remain unchanged, and it shall thereupon be
+lawful to dispose off the business at such meeting, irrespective of the number of members attending.
+(12) (a)
+
+All matters which the Board is required to consider shall be considered at its meeting, or if the
+Chairman so decides, by circulation of the papers, to every member who is not absent from
+India.
+
+(b)
+
+When any matter is referred to by circulation of paper under clause (a), any member may
+request that it should be considered at a meeting of the Board, and the Chairman may direct
+that it shall be so considered but when two or more members so request, the Chairman shall
+direct that the matter shall be so considered at a meeting to be held.
+
+(13) (a)
+
+The Secretary shall place before the Board a list of business to be transacted at the meeting.
+
+(b)
+
+No business which is not included in such list shall be considered unless the Chairman
+permits.
+
+(14) (a)
+
+Every matter at a meeting shall be decided by the majority of votes of the members present at
+such meeting.
+
+(b)
+
+Every matter referred to the members by circulation under sub-regulation (12) shall be decided
+by the majority opinion of the members to whom the papers were circulated, unless the
+Chairman reserves it for consideration at a regular meeting to be held later.
+
+(c)
+
+In case of equal division of votes or opinions of the members, the Chairman shall have a
+casting vote or opinion.
+
+(15) (a)
+
+The Secretary shall record the minutes of each meeting in a bound-paged book kept for the
+purpose and copies of such minutes of meeting shall be circulated to all members present in
+India.
+
+(b)
+
+The minutes so recorded shall be confirmed at the next meeting of the Board and signed by the
+Chairman in token thereof.
+
+(16) (a)
+
+The Chairman, in addition to any other power and duties conferred upon him under these
+regulations, shall(i)
+
+present all important papers and matters to the Board as early as possible;
+
+(ii)
+
+issue orders for carrying out the decisions of the Board;
+
+(iii)
+
+have power to refer, in his discretion, any matter to the Central Government for their
+orders; and
+
+(iv)
+
+have powers generally to take such action or pass such orders necessary to implement
+the decisions of the Board.
+
+(b)
+
+The Chairman may, during his temporary absence by reason of leave or otherwise, authorise
+any member of the Board to perform all or any of duties of the Chairman during such absence.
+
+(c)
+
+Unless the Chairman otherwise directs, all proceedings of the Board shall be conducted incamera and be regarded as confidential.
+
+11. Certificate granted by Board.- (1) The certificates specified in sub-regulation (2) shall be granted by
+the Board.
+(2) Certificate granted by the Board shall be valid throughout the territories to which these regulations
+extend, and shall be of the following kinds, namely: –
+a)
+
+Manager’s first class certificate of competency to manage a coal mine (hereinafter referred to
+as a First Class Manager’s Certificate);
+
+b)
+
+Manager’s second class certificate of competency to manage a coal mine (hereinafter referred
+to as a Second Class Manager’s Certificate);
+
+c)
+
+Surveyor’s certificate of competency to survey the working of a mine (hereinafter referred to
+as a Surveyor’s Certificate);
+
+d)
+
+Overman’s certificate of competency to carry out inspections and duties as required under
+these regulations (hereinafter referred to as an Overman’s Certificate);
+
+¹Hkkx IIµ[k.M 3(i)º
+
+Hkkjr dk jkti=k % vlk/kj.k
+
+169
+
+e)
+
+Sirdar’s Certificate of competency to carry out inspections and duties as required under these
+regulations (hereinafter referred to as a Sirdar’s Certificate);
+
+f)
+
+Winding engineman’s certificate (hereinafter referred to as a Engine Driver’s Certificate) to
+drive a winding engine of any type or class; and
+
+g)
+
+Certificate of competency to test for the presence of inflammable gas (hereinafter referred to
+as a Gas Testing Certificate):
+
+Provided that any of the certificates aforesaid, other than an Engine Driver’s Certificate and a Gas
+Testing Certificate, may be restricted to mines having opencast working only, and this fact shall be
+endorsed on the certificate.
+12. Examinations and examiners.- (1) Certificate shall be granted to candidates after such examinations
+and in such form as the Board may specify:
+Provided that the Board may, subject to the conditions specified in bye-laws, exempt any person
+from appearing at the examination or part thereof for the grant of a certificate referred to in regulation 11.
+(2) The examination shall be held at such times and at such centres as may be fixed by the Board, and shall
+be conducted by examiners appointed by the Board.
+(3) The examiners referred to in sub-regulation (2) shall be subject to the orders of the Board in respect of
+all matters relating to the conduct of the examinations, and shall receive such remuneration as the Board,
+with the sanction of the Central Government, may fix.
+(4) The Board may make bye-laws as to the procedure for, and the conduct of the examinations and as to
+the granting of certificate of competency and of fitness as required under these regulations, and shall so far
+as may be practicable, provide that the standard of knowledge required for the grant of certificates of any
+particular class and the standard of medical fitness shall be uniform throughout the territories to which
+these regulations extend:
+Provided that the Board may take decision on any matter, not specified under the bye-laws, which
+may be brought to it for disposal.
+13. Submission of application.- (1) Application for an examination conducted by the Board shall be made
+to the Board not less than sixty days prior to the date fixed for the examination in a manner and on a form
+specified for the purpose.
+(2) Notice regarding the date and place of the examination for the Manager’s Certificate, Surveyor’s
+Certificate and Overman’s Certificates shall be published under the order of the Board in such periodicals
+or by any other means as the Board may direct, not less than sixty days prior to the date fixed by the Board
+for receiving applications.
+14. Age limit and general qualifications of candidates.- (1) No person shall be admitted as a candidate at
+any examination held by the Board unless he is twenty years of age.
+(2) No person shall be admitted as a candidate at any examination for a Manager’s Certificate, Surveyor’s
+Certificate, Overman’s Certificate or Sirdar’s Certificate unless he holds a valid first-aid certificate of the
+St. John Ambulance Association (India) or any other equivalent standard as may be specified by the Chief
+Inspector.
+(3) Every application for any examination as aforesaid shall be accompanied by,(i)
+
+a certificate of age verified by a Gazetted Officer of the Government or by the
+headmaster of a recognised school of a higher secondary or equivalent standard:
+
+Provided that in the case of a person holding a matriculation or equivalent certificate, such
+certificate shall be submitted as evidence of age;
+(ii)
+
+a medical certificate obtained not more than one year prior to the date of his application,
+from a qualified medical practitioner not below the rank of a Civil Assistant Surgeon or
+from a Certifying Surgeon or from a medical practitioner holding at least a degree in
+Bachelor of Medicines and Bachelor of Surgery (M.B.B.S.) and registered with Medical
+Council of India, certifying the candidate to be free from deafness, defective vision or
+any other infirmity, mental or physical, likely to interfere with the efficiency of his
+work; and
+
+170
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+(iii)
+
+[PART II—SEC. 3(i)]
+
+a certificate from some person of good repute as to the general good conduct and
+sobriety of the candidate.
+
+(4)
+No person shall be admitted as a candidate to any examination for Manager’s Certificate,
+Surveyor’s Certificate, Overman’s Certificate or Sirdar’s Certificate, unless he has passed the senior
+secondary school examination or intermediate examination or its equivalent from a recognised Board or
+University or passed a Diploma or Degree in Engineering or other equivalent qualifications approved in
+that behalf by the Central Government, and for an Engine Driver’s Certificate unless he satisfies the Board
+that he is literate.
+(5)
+
+(a)
+
+No person shall be admitted as a candidate at any examination for a Manager’s or an
+Overman’s Certificate, which is not restricted to mines having opencast working only, unless
+he has obtained at least a Sirdar’s Certificate, which is not restricted to mines having opencast
+working only and a Gas Testing Certificate; and
+
+(b)
+
+no person shall be admitted as a candidate at an examination for Manager’s Certificate or
+Overman’s Certificate restricted to mines having opencast working only, unless he has
+obtained at least a Sirdar’s Certificate:
+
+Provided that the Board may, subject to the conditions specified in bye-laws, exempt any person
+from the stipulations of the above sub-regulation.
+15. Practical experience of candidates for Manager’s Certificate examination.- (1) No person shall be
+admitted as a candidate at any examination for a First or Second Class Manager’s Certificate other than an
+exchange Certificate to which the provisions of regulation 21 apply, unless the Board is satisfied that he has
+had practical experience in coal mine as prescribed under sub-regulation (2) for a period of not less than six
+and five years respectively:
+Provided that a candidate(a)
+
+who has received a diploma in mining or mining engineering or other equivalent qualification
+approved in that behalf by the Central Government, such period of experience shall be
+reduced to five and four years respectively; and
+
+(b)
+
+who has passed a degree in mining engineering or other equivalent qualification approved in
+that behalf by the Central Government, such period shall be reduced to two years for First
+Class Manager’s Certificate;
+
+Provided further that the experience referred to in this sub-regulation shall be the experience
+obtained after acquiring the relevant academic qualification.
+(2) The Board may specify, subject to the conditions laid down in bye-laws, the nature and other details of
+the practical experience required for Manager’s Certificate.
+16. Practical experience of candidates for Surveyor’s Certificate examination.- No person shall be
+admitted as a candidate at any examination for a Surveyor’s Certificate unless he has satisfied the Board
+that he has had not less than two years’ practical experience of surveying of a type the Board may specify,
+subject to the conditions laid down in bye-laws.
+Provided that such period shall be reduced to six months in the case of a candidate who has
+attended classes in theoretical and practical surveying at any educational institution approved by the Board
+subject to the conditions laid down in bye-laws.
+17. Practical experience of candidate for Sirdar’s Certificate examination.- (1) No person shall be
+admitted as a candidate at any examination for a Sirdar’s Certificate unless the Board is satisfied that he has
+had practical experience and training in a coal mine for a period of not less than three years:
+Provided that such period shall be reduced to a period of one year in the case of a candidate who
+has received a diploma or certificate in scientific and mining training after a course of at least two years at
+an educational institution, or who has taken a degree in scientific and mining subject at a university,
+approved in that behalf by the Board subject to the conditions laid down in bye-laws.
+(2) The Board may specify, subject to the conditions laid down in bye-laws, the nature and other details of
+the practical experience required for Sirdar’s Certificate.
+
+¹Hkkx IIµ[k.M 3(i)º
+
+Hkkjr dk jkti=k % vlk/kj.k
+
+171
+
+18. Practical experience of candidate for Engine Driver’s Certificate.- No person shall be admitted as a
+candidate at any examination for an Engine Driver’s Certificate unless the Board is satisfied that he has had
+practical experience of driving a winding engine or as an assistant to a qualified winding engine driver for a
+period of at least one year.
+19. Number of attempts at examination.– No person shall be admitted for examination for a particular
+certificate beyond seven attempts from the date of coming into force of these regulations.
+20. Fees for grant of Certificates.- (1) Fees to be paid in respect of every application for the grant of a
+certificate shall be prescribed by the Board, subject to the conditions laid down in bye-laws.
+(2) The fee once paid shall not be refundable except where the candidate has died before the examination
+for grant of a certificate or where fee has been erroneously paid.
+21. Exchange Certificate.- (1) The Board may grant to any person, holding a Manager’s Certificate,
+Surveyor’s Certificate, Engine Driver’s Certificate, Foreman’s Certificate or Mate’s Certificate granted
+under any law for the regulation of mines in force in any other country or under the Metalliferous Mines
+Regulations, 1961 or its amended version made under the Act, a corresponding certificate of a similar class
+under these regulations, if he possesses such qualification and experience and passes such examination as
+the Board may stipulate, subject to the conditions specified in bye-laws.
+Provided that the Board may, subject to the conditions laid down in bye-laws, exempt any person
+from appearing at the examination or part thereof for the grant of an Exchange Certificate.
+(2) Every application for the grant of an Exchange Certificate under sub-regulation (1) shall be
+accompanied by,(i) a medical certificate obtained not more than one year prior to the date of his application,
+from a qualified medical practitioner not below the rank of a Civil Assistant Surgeon or
+from a Certifying Surgeon or from a medical practitioner holding at least a degree in
+Bachelor of Medicines and Bachelor of Surgery (M.B.B.S.) and registered with Medical
+Council of India, certifying the candidate to be free from deafness, defective vision or any
+other infirmity, mental or physical, likely to interfere with the efficiency of his work; and
+(ii) a certificate from some person of good repute as to the general good conduct and sobriety
+of the candidate:
+Provided that in the case of a Manager’s Certificate, the candidate shall possess practical training
+in India in the mines, for a period of not less than six months in such manner as may be specified by the
+Board subject to the conditions laid down in bye-laws.
+(3) Fees on the scale laid down in regulation 20 shall be paid in respect of every examination under this
+regulation.
+22. Duplicate Certificate.- If any person proves to the satisfaction of the Board that he has, without any
+fault on his part, lost or been deprived of a certificate granted to him under these regulations, the Board
+may upon realisation of the fee prescribed under sub-regulation (1) of regulation 20 and subject to the
+conditions laid down in bye-laws, cause a copy of the certificate to be delivered to him and the word
+“DUPLICATE” shall be stamped across every such copy.
+23. Certificate to be delivered to the manager.– (1) When the holder of an Overman’s Certificate,
+Sirdar’s Certificate, Engine Driver’s Certificate and Gas Testing Certificate is employed in a mine in a
+capacity which requires the possession of the said certificate, he shall deliver such certificate to the
+manager of the mine in which he is for the time being employed.
+(2) The manager shall deliver to such person a receipt for the same, and shall retain the certificate in the
+office at the mine so long as the holder thereof is so employed, and shall return it to the holder on his
+ceasing to be so employed.
+24. Suspension or cancellation of Manager’s Certificate, Surveyor’s Certificate, Overman’s
+Certificate, Sirdar’s Certificate, Engine Driver’s Certificate or Gas Testing Certificate.- (1) If on the
+basis of a report of the Inspector, the Regional Inspector is of the opinion that the holder of a Manager’s
+Certificate, Surveyor’s Certificate, Overman’s Certificate, Sirdar’s Certificate, Engine Driver’s Certificate
+or Gas Testing Certificate is incompetent or is guilty of negligence or misconduct in the performance of his
+duties under the Act or under these regulations, he shall bring the matter to the notice of the Board.
+
+172
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+[PART II—SEC. 3(i)]
+
+(2) The Board may, on the report of the Regional Inspector under sub-regulation (1), authorise an Inspector,
+not below the rank of the Inspector whose report formed the basis of the said opinion, to hold an enquiry in
+accordance with the procedure laid down in bye-laws, to determine whether or not such a person
+(hereinafter referred to as the delinquent) is fit to continue to hold such certificate.
+Provided that the Board shall, before the enquiry, furnish to the delinquent a statement of the case
+on which the enquiry is instituted.
+(3) The Inspector who conducted the enquiry shall, within fifteen days from the date of conclusion of his
+enquiry, send a report to the Board together with his findings, the notes of evidence recorded during the
+enquiry and other relevant records.
+(4) Copies of the notes of evidence and the findings of the Inspector who conducted the enquiry shall also
+be sent to the delinquent who may submit his written representation to the Board within thirty days from
+the date of dispatch of such copies.
+(5) The Board may, after considering the evidence and other records and the written representation, if any,
+submitted by the delinquent, either cause further enquiry to be made in the case and thereupon or otherwise,
+either exonerate the delinquent of the charges against him or suspend or cancel the certificate, as it deems
+fit.
+(6) An appeal shall lie against any order of the Board under this regulation before the Central Government
+within thirty days of such order.
+(7) Where a certificate is suspended or cancelled under this regulation suitable endorsement may be made
+on such certificate or a duplicate thereof issued under regulation 22.
+25. Validity of certificate for managers and officials, etc.- (1) No person shall act as a manager or an
+official or a winding engineman in a mine after attaining the age of sixty years unless he has obtained,
+within the preceding one year, a medical certificate of fitness certifying him fit to carry out the duties
+prescribed for him in the Act and in these regulations and orders made thereunder:
+Provided that if the Chief Inspector or the Regional Inspector is of the opinion that a person as
+aforesaid, though less than sixty years of age, is medically unfit to carry on the duties assigned to him in the
+Act and in these regulations and orders made thereunder, the Chief Inspector or the Regional Inspector
+may, by an order in writing, require such person to obtain a medical certificate of fitness within such
+period, not exceeding three months, as he may specify therein; and no such person shall continue to act in
+any capacity as aforesaid after the period so specified unless he has obtained a medical certificate of fitness.
+(2)
+The medical certificate of fitness as aforesaid shall be obtained from such authority and in such
+form and manner as the Board may specify subject to the conditions laid down in bye-laws.
+(3)
+Notwithstanding anything contained in sub-regulation (1), no person shall act as manager or an
+official or a winding engineman in a mine after attaining the age of seventy years.
+CHAPTER IV
+INSPECTORS AND MINE OFFICIALS
+26. Qualifications of Inspectors.- (1) No person shall be appointed as Chief Inspector unless he holds a
+degree in mining engineering of an educational institution approved by the Central Government and also a
+First Class Manager’s Certificate granted under regulation 11.
+(2) No person shall be appointed as an Inspector unless he holds a degree in mining engineering of an
+educational institution approved by the Central Government and also a First Class Manager’s Certificate
+granted under regulation 11:
+Provided that –
+(i)
+
+in relation to electrical machinery installed in mines, a person holding a degree in
+electrical engineering of an educational institution approved by the Central Government
+may be so appointed;
+
+¹Hkkx IIµ[k.M 3(i)º
+
+Hkkjr dk jkti=k % vlk/kj.k
+
+173
+
+(ii)
+
+in relation to other machinery or mechanical appliances installed in mines, a person
+holding a degree in mechanical engineering of an educational institution approved by
+the Central Government may be so appointed, and
+
+(iii)
+
+in relation to the provisions of the Act and of the rules and regulations which relate to
+matters concerning the health and welfare of persons, a person holding a degree in
+Bachelor of Medicines and Bachelor of Surgery (M.B.B.S.) or such other qualification
+as may be prescribed, of an educational institution approved by the Central Government
+or a person holding such other qualifications as the Central Government may approve in
+this behalf, may be so appointed.
+
+27. Qualification and appointment of manager.– (1) No mine shall be opened, worked or re-opened
+unless there is a manager of the mine, being a person duly appointed and having such qualifications as
+required under this regulation.
+(2)
+No person shall act or be employed as a manager unless he has attained 23 years of age and is paid
+by, and is directly answerable to the owner or agent of the mine.
+(3)
+Subject to the provisions of sub-regulation (4), no person shall act or continue to act, or be
+appointed, as manager of a mine or mines the average output of which corresponds to the figures given in
+column (i) of the table below unless he holds the corresponding qualifications given in column (ii) thereof:
+(i)
+For belowground mines:
+(a) In excess of 2,500 tonnes per month
+
+(ii)
+A First Class Manager’s Certificate not restricted
+to opencast mines only.
+
+(b) Not exceeding 2,500 tonnes per month.
+A First Class Manager’s Certificate or Second
+Class Manager’s Certificate not restricted to
+opencast mines only.
+For opencast mines:
+(c) In excess of 20,000 cubic metre per months of A First Class Manager’s Certificate.
+material handled
+(d) Not exceeding 20,000 cubic metre material A First Class Manager’s Certificate or Second
+handled per month
+Class Manager’s Certificate:
+Provided that in respect of a mine having both opencast and underground workings, a person
+holding First Class Manager’s Certificate not restricted to opencast mines shall only be appointed as the
+manager of the mine irrespective of production:
+Provided further that where special conditions exist, the Chief Inspector may, by an order in
+writing, permit appointment of manager in a mine in variance with the above.
+(4) Where under the provisions of sub-regulation (3) a person holding a First Class Manager’s Certificate
+or Second Class Manager’s Certificate has been appointed as manager, a person holding lower
+qualifications shall not, except with the previous permission in writing of the Chief Inspector and subject to
+such conditions as he may specify therein, be so appointed during the succeeding twelve months,
+notwithstanding any reduction in the average output of the mine.
+(5) No person shall act, or be appointed, as manager of more than one mine except with the previous
+permission in writing of the Chief Inspector and subject to such conditions as he may specify therein:
+Provided that no such permission shall have effect for a period exceeding twelve months, unless
+renewed:
+Provided further that the Chief Inspector may at any time, by an order in writing, vary or revoke
+any such permission if the circumstances under which the permission was granted, have altered or the Chief
+Inspector finds that the manager has not been able to exercise effective supervision in the mines under his
+charge.
+
+174
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+[PART II—SEC. 3(i)]
+
+(6) Where by reason of absence or for any other reason, the manager is unable to exercise daily personal
+supervision or is unable to perform his duties under the Act or these regulations, or orders made thereunder,
+the owner, agent or manager shall authorise in writing a person whom he considers competent, to act as
+manager of the mine:
+Provided that –
+(i) such person holds a Manager’s Certificate;
+(ii) no such authorisation shall have effect for a period in excess of thirty days, except with the
+previous consent in writing of the Chief Inspector and subject to such conditions as he may
+specify therein;
+(iii) the owner, agent or manager, as the case may be, shall forthwith send by registered post, speed
+post or fax to the Regional Inspector a written notice intimating that such an authorisation has
+been made, and stating the reason for the authorisation, the qualifications and experience of
+the person authorised, and the date of the commencement and ending of the authorisation; and
+(iv) the Chief Inspector or the Regional Inspector may, except in the case of a person possessing
+the qualifications specified in sub-regulation (3), by an order in writing, revoke any authority
+so granted.
+(7) The persons so authorised to act as manager under sub-regulation (6) shall, during the period of such
+authorisation, have the same responsibilities, discharge the same duties, and be subject to the same
+liabilities as the manager.
+(8) No manager shall vacate his office without giving due notice in writing to the owner or agent at least
+thirty days before the day on which he wishes to vacate his office:
+Provided that the owner or agent may permit the manager to vacate his office after giving a shorter
+notice.
+(9) No owner or agent shall transfer, discharge or dismiss a manager unless the manager has been relieved
+by a duly qualified person as specified under sub-regulation (3).
+(10) Nothing in sub-regulation (6)shall confer on the owner, agent or manager the right to authorise any
+person not duly qualified to manage the mine under sub-regulation (3) to act as the manager except in case
+of illness or other cause over which the manager has no control, or except with the previous written
+permission of the Chief Inspector and subject to such conditions as he may specify therein:
+Provided that the Chief Inspector shall not permit any such authorisation for a period exceeding
+sixty days from the date on which the mine is worked without a manager duly qualified under subregulation (3).
+(11) The owner or agent shall provide suitable residential accommodation for the manager and the assistant
+manager within a distance of five kilometers from all mine openings, and every manager, and assistant
+manager shall reside in the accommodation so provided:
+Provided that where special difficulties exist which render compliance with these provisions not
+reasonably practicable, the Chief Inspector may, by an order in writing and subject to such conditions as he
+may specify therein, grant exemption from the same.
+(12) No manager shall be entrusted by the owner or agent with any work, nor shall he himself perform any
+work, which may necessitate his frequent or prolonged absence from the mine.
+(13) If any doubt arises as to any matter under sub-regulation (11) or sub-regulation (12), it shall be
+referred to the Chief Inspector for decision.
+(14) Except as hereinafter provided in sub-regulation (5), no manager shall act as manager or in any other
+capacity in another mine.
+28. Charge report of managers.- When there is a change of manager of any mine, the outgoing manager
+shall hand over to the incoming manager, a charge report in a format as may be specified by the Chief
+Inspector, by a general or special order and the charge report shall be signed by both the outgoing and
+incoming managers and a copy of the charge report shall be sent to the Regional Inspector.
+
+¹Hkkx IIµ[k.M 3(i)º
+
+Hkkjr dk jkti=k % vlk/kj.k
+
+175
+
+29. Qualification and appointment of safety officer.- In every belowground mine the average monthly
+output of which exceeds 5,000 tonnes or in every opencast mine the average monthly material handled of
+which exceeds 20,000 cubic metre, the manager shall be assisted in the work of promoting safe practices in
+the mine by a safety officer who shall be a person holding the following qualifications, namely:(a)
+
+in the case of a belowground mine having an average monthly output in excess of 15,000 tonnes, a
+First Class Manager’s Certificate not restricted to opencast mines only;
+
+(b)
+
+in case of a mine having opencast workings with an average monthly material handled in excess of
+50,000 cubic metre, a First Class Manager’s Certificate;
+
+(c)
+
+in case of a belowground mine having an average monthly output in excess of 10,000 tonnes, but
+not exceeding 15,000 tonnes, a First Class Manager’s Certificate or Second Class Manager’s
+Certificate not restricted to opencast mines only;
+
+(d)
+
+in case of a mine with opencast workings having an average monthly material handled in excess of
+20,000 cubic metre but not exceeding 50,000 cubic metre, a First Class Manager’s Certificate or
+Second Class Manager’s Certificate;
+
+(e)
+
+in the case of a belowground mine having an average monthly output in excess of 5,000 tonnes but
+not exceeding 10,000 tonnes, holder of a First Class Manager’s Certificate or Second Class
+Manager’s Certificate not restricted to opencast mines only, or a degree or diploma in Mining or
+Mining Engineering approved by the Central Government:
+
+Provided that where special conditions exist, the Chief Inspector may by an order in writing and
+subject to such conditions as he may specify therein, permit or require the appointment of a safety officer in
+variation of these provisions:
+Provided further that where the Chief Inspector is of the opinion that, due to the large size of a
+mine, or due to other conditions existing at a mine, it is not possible for the safety officer to attend to his
+duties by himself, he may, by an order in writing and for reasons to be recorded therein, require the
+appointment of such number of persons holding such qualifications as he may specify in the order, to assist
+the safety officer.
+30. Appointment of assistant manager.- In every mine, the manager shall be assisted by assistant
+managers on the scale as may be specified by the Board.
+Provided that in specific cases, the Chief Inspector may relax the requirement of the appointment of
+assistant managers.
+31. Qualification and appointment of ventilation officer.- In every belowground mine consisting of
+gassy seams of first degree, the average output of which exceeds 5,000 tonnes or of second or third degree
+the average output of which exceeds 2,500 tonnes, the manager shall be assisted in the work of supervising
+the maintenance of ventilation system of the mine in accordance with the provisions of these regulations by
+a ventilation officer who shall be a person holding the following qualifications, namely:(a)
+
+in the case of a mine consisting of gassy seams of first degree and having an average output in
+excess of 15,000 tonnes or a mine consisting of gassy seams of second or third degree and having
+an average output in excess of 10,000 tonnes, a Manager’s Certificate not restricted to open cast
+mines only; and
+
+(b)
+
+in every other case, a Manager’s Certificate not restricted to opencast mines only or a Degree or
+Diploma in Mining or Mining Engineering recognised by the Central Government:
+
+Provided that where special conditions exist, the Chief Inspector may, by an order in writing and
+subject to such conditions as he may specify therein, permit or require the appointment of a ventilation
+officer in variance of these provisions or require the appointment of such number of persons to assist the
+ventilation officer, as may be specified in the order:
+Provided further that in the case of a mine consisting of gassy seams of first degree and having an
+average output less than 15,000 tonnes, the Chief Inspector may, considering the nature and extent of
+workings therein, permit, by an order in writing and subject to such conditions as he may specify therein,
+combine the post of ventilation officer with that of safety officer appointed under regulation 29.
+
+176
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+[PART II—SEC. 3(i)]
+
+Explanation.- For the purposes of this regulation the expression “average output” means the average per
+month of the total output during the preceding financial year from the belowground working of all seams:
+Provided that where the mine consists of gassy seams of different degrees, the aforementioned
+average output shall be deemed to be from the seam or seams of the highest degree of gassiness.
+32. Appointment of engineers.– (1) At every mine where machinery is used, an engineer holding a degree
+or diploma in mechanical engineering, electrical engineering, mining machinery or equivalent qualification
+as may be recognised by the Central Government, shall be appointed to hold general charge of such
+machinery, and to be responsible for its installation, maintenance and safe working, who shall be
+subordinate to manager:
+Provided that where electrical energy exceeding 650 volts is used and the installed capacity of all
+electrical equipment is 1.5 MVA and above, an engineer holding a degree or diploma in electrical
+engineering or equivalent qualification as may be recognised by the Central Government, shall be
+appointed to hold charge of all the electrical equipment installed at the mine in addition to that specified
+above:
+Provided further that in case of opencast mines worked by heavy earth moving machinery or in any
+mechanised mine having belowground workings, in which the aggregate horse power of all the machinery
+used exceeds 1500, a person holding a degree or diploma in mechanical engineering, mining machinery or
+equivalent qualification as may be recognised by the Central Government, shall also be appointed to hold
+charge of all the mechanical equipment installed at the mine in addition to that specified above:
+Provided also that nothing in this sub-regulation shall be deemed to prohibit the employment of
+two or more engineers at one mine so long as the jurisdiction and sphere of responsibility of every such
+engineer is defined by the manager in writing.
+(2) Notwithstanding anything contained in sub-regulation (1), the Chief Inspector may, by an order in
+writing, specify any qualification in addition to those referred to in that sub-regulation in respect of a mine
+or class of mines, if having regard to the conditions existing in such mine or class of mines, he is satisfied
+that it is necessary to do so in the interests of safety.
+(3) No person shall act, or be appointed, as engineer of more than one mine except with the previous
+permission in writing of the Chief Inspector and subject to such conditions as he may specify therein:
+Provided that no such permission shall have effect for a period exceeding twelve months, unless
+renewed:
+Provided further that the Chief Inspector may at any time, by an order in writing, vary or revoke
+any such permission, if the circumstances under which the permission was granted, have altered or the
+Chief Inspector finds that the engineer has not been able to exercise effective supervision in the mines
+under his charge.
+(4) Where by reason of temporary absence by any cause, the engineer, appointed under sub-regulation (1) is
+unable to perform his duties, the manager shall authorise in writing a person whom he considers competent
+to act in his place:
+Provided that –
+(a) notice of every such authorisation shall be sent to the Regional Inspector forthwith;
+(b) no such authorisation shall have effect for a period in excess of thirty days except with the
+previous written consent of the Regional Inspector and subject to such conditions as he may
+specify therein; and
+(c) the Regional Inspector may by an order in writing, revoke any authority so granted.
+33. Appointment and qualifications of senior officials.- (1) At every mine, one or more overman shall
+be appointed to hold charge of the different districts of the mine on each working shift unless otherwise
+specified by the Regional Inspector.
+(2)
+The district assigned to an overman under sub-regulation (1) shall not be of such a size, nor shall
+any additional duties other than his duties under these regulations be such, as are likely to prevent him from
+carrying out in a thorough manner, the duties assigned to him under these regulations.
+(3)
+For the purposes of this regulation, every person employed as an official subordinate to the
+manager and superior to the Sirdar shall hold either a Manager’s Certificate or an Overman’s Certificate.
+
+¹Hkkx IIµ[k.M 3(i)º
+
+Hkkjr dk jkti=k % vlk/kj.k
+
+177
+
+34. Appointment of surveyors.– (1) At every mine, one or more persons holding a Surveyor’s Certificate
+shall be appointed to be the surveyor for carrying out the surveys and levellings and for preparing the plans
+and sections required under the Act or the regulations, or orders made thereunder.
+Provided that in case of mines having opencast workings only, nothing in this sub-regulation shall
+prohibit the appoint of one or more persons holding a Surveyor’s Certificate restricted to opencast mines
+only for carrying out the surveys and levellings and for preparing the plans and sections required under the
+Act or the regulations, or orders made thereunder.
+(2)
+No person shall be appointed as a surveyor of more than one mine or in any other capacity in the
+same mine, without the previous permission in writing of the Chief Inspector and subject to such conditions
+as may be specified therein.
+(3) The number of surveyors required to be appointed shall be on the scale as may be specified by the
+Board:
+Provided that in specific cases, the Chief Inspector may relax the requirement of the appointment of
+surveyors.
+(4) If a mine has more than one surveyor, each shall carry the duties and the responsibilities of the surveyor
+for the part or section of the mine to be assigned in writing by the owner, agent or manager:
+Provided that the owner, agent or manager shall appoint one of the surveyors to be responsible for
+the preparation and maintenance of the plans required to be prepared and maintained under these
+regulations who shall also be responsible for co-ordination and overall supervision of survey work in the
+mine.
+35. Appointment of officials and competent persons.– (1) The owner, agent or manager shall appoint
+such number of competent persons, including officials and technicians as is sufficient to secure,
+during each of the working shifts –
+(i)
+adequate inspection of the mine and equipment thereof;
+(ii) a thorough supervision of all operations in the mine;
+(iii) the installation, running and maintenance, in safe working order, of all machinery in the mine;
+and
+(iv) the enforcement of the requirements of the Act and rules and regulations framed thereunder.
+(2) Without prejudice to the requirement of sub-regulation (1), where the mine is worked on more than one
+shift, the owner, agent or the manager shall arrange that during the afternoon shift and the night shift, the
+mine is under the general supervision of at least an assistant manager, and of an experienced overman in
+other cases.
+(3) It shall be the responsibility of the manager to see that the persons so appointed are competent to
+perform the duties assigned to them:
+Provided that no person shall be so appointed unless he is paid by the owner or agent and is
+answerable to the manager:
+Provided further that the Chief Inspector under special circumstances may vary the requirements of
+this sub-regulation by an order in writing.
+(4) Copies of all appointments made under sub-regulation (1) shall be entered in a bound-paged book kept
+for the purpose where a list of all such competent persons shall be maintained.
+(5) Without prejudice to the requirements of sub-regulation (3), every manager on taking over charge of a
+mine, shall satisfy himself that all persons already appointed under sub-regulation (1) are competent to
+perform the duties assigned to them; and if he finds them competent, he shall either countersign their
+authorisations or issue fresh ones.
+36. General management.– (1) The owner, agent and manager shall provide for the safety and proper
+discipline of persons employed in the mine.
+(2) Except in a case of emergency, no person who is not an official or competent persons shall give,
+otherwise than through the manager, instructions to a person employed in a mine, who is responsible to the
+manager.
+
+178
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+[PART II—SEC. 3(i)]
+
+CHAPTER V
+DUTIES AND RESPONSIBILITIES OF MINE MANAGEMENT, CONTRACTORS,
+MANUFACTURERS, OFFICIALS, COMPETENT PERSONS AND WORKMEN
+37. Duties and responsibilities of owner.– (1) In taking preventive and protective measures, the owner
+shall arrange for regular assessment of the risk and dealing with it in the following order of priority:(a)
+
+eliminate the risk;
+
+(b)
+
+control the risk at source;
+
+(c)
+
+minimize the risk that include the design of safe work systems; and
+
+(d)
+
+in so far as the risk remains, provide for the use of personal protective equipment, having
+regard to what is reasonable, practicable and feasible, and to good practice and the exercise of
+due diligence.
+
+(2) Owners shall take all necessary measures to eliminate or minimize the risks to safety and health of
+persons employed in mines under their control and shall(a)
+
+ensure that the mine is designed, constructed and provided with electrical, mechanical and
+other equipment, including a communication system, to provide conditions for safe operation
+and a healthy working environment;
+
+(b)
+
+ensure that the machine is commissioned, operated, maintained and de-commissioned in such
+a way that workers can perform the work assigned to them without endangering their safety
+and health or that of other persons;
+
+(c)
+
+take steps to maintain the stability of the ground in which persons have access in the context of
+their work;
+
+(d)
+
+where practicable, provide from every underground workplace, two exits each of which is
+connected to separate means of egress to the surface;
+
+(e)
+
+ensure the monitoring, assessment and regular inspection of the working environment to
+identify the various hazards to which the workers may be exposed and to assess their level of
+exposure;
+
+(f)
+
+ensure adequate ventilation for all underground working to which access is permitted;
+
+(g)
+
+in respect of zones susceptible to particular hazards, draw up and implement an operating plan
+and procedures to ensure a safe system of work and the protection of workers;
+
+(h)
+
+take measures and precautions appropriate to the nature of a mine operation to prevent, detect
+and combat the start and spread of fires, explosions and inundations;
+
+(i)
+
+ensure that, when there is serious danger to the safety and health of workers, operations are
+stopped and workers are evacuated to a safe location;
+
+(j)
+
+ensure that corrective actions are taken immediately, when manager or other officials report
+non-compliance with safety and health regulations or code of practice by any person.
+
+(3) The owner shall ensure preparation of an emergency response plan specific to each mine for reasonably
+foreseeable industrial and natural disasters.
+(4) Where workers are exposed to physical, chemical or biological hazards, the owner shall(a)
+
+inform the workers, in a comprehensible manner, of the hazards associated with their work,
+the health risks involved and relevant preventive and protective measures;
+
+(b)
+
+take appropriate measures to eliminate or minimize the risks resulting from exposure to those
+hazards;
+
+(c)
+
+where adequate protection against risks of accident or injury to health including exposure to
+adverse conditions is not possible to be ensured by other means, provide and maintain at no
+cost to the worker, suitable protective equipment, clothing as necessary and other facilities as
+defined by these regulations;
+
+(d)
+
+provide workers who have suffered from an injury or illness at the workplace with first aid,
+appropriate transportation from the workplace and access to appropriate medical facilities.
+
+¹Hkkx IIµ[k.M 3(i)º
+
+Hkkjr dk jkti=k % vlk/kj.k
+
+179
+
+(5) The owner shall ensure that(a)
+
+adequate training and re-training programs and comprehensible instructions are provided for
+workers, at no cost to them, on safety and health matters as well as on the work assigned;
+
+(b)
+
+adequate supervision and control are provided in each shift to secure the safe operation of the
+mine;
+
+(c)
+
+a system is established so that the names of all persons who are employed belowground can be
+accurately known at any time, as well as their probable location;
+
+(d)
+
+all accidents and dangerous occurrences are investigated and appropriate remedial actions are
+taken;
+
+(e)
+
+the reporting of information and notices specified under regulation 8 is made to the Regional
+Inspector and to the Chief Inspector on accidents and dangerous occurrences.
+
+(6) The owner shall ensure regular health surveillance of workers exposed to occupational health hazards
+specific to mining operations.
+38. General responsibilities of supplier, manufacturer and designer.- A person who designs,
+manufactures, imports, provides or transfers machinery, equipment or substances for use in coal mines,
+shall (a)
+
+ensure that the machinery, equipment or substances do not entail dangers for the safety and
+health of those using them correctly;
+
+(b)
+
+make available(i)
+
+information concerning their requirement for the correct installation, maintenance and
+use of machinery and equipment and the correct storage and use of substances;
+
+(ii)
+
+information concerning the hazards of machinery and equipment, the dangerous
+properties of hazardous substances and physical agents or products; and
+
+(iii)
+
+information on how to eliminate or control risks arising from the identified hazards
+associated with the products.
+
+39. Responsibilities of contractor.– (1) A contractor deployed in a mine for any work shall(a)
+
+establish effective ongoing communication and co-ordination between appropriate levels of
+supervisors, officials and senior officials of the mine prior to commencing work, which shall
+include provisions for identifying hazards and the measures to eliminate and control risks ;
+
+(b)
+
+ensure arrangements for reporting work related injuries and diseases, ill health and incidents
+among his workers while performing work inthe mine;
+
+(c)
+
+provide relevant workplace safety and health hazards awareness and training to their workers
+prior to commencing and as work progresses as necessary; and
+
+(d)
+
+ensure compliance of the provisions of the Act, and the rules and regulations framed
+thereunder.
+
+(2) When deploying contractors, the owner, agent and manager shall ensure that:
+(a)
+
+the same safety and training requirements apply to the contractors and their workers as to the
+workers of the establishment;
+
+(b)
+
+where required, only such contractors are deployed that have been duly registered or hold
+licenses; and
+
+(c)
+
+the contract specify safety and health requirements as well as sanctions and penalties in case of
+non-compliance and such contract shall include the right for mine officials to stop the work
+whenever a risk of serious injury is apparent and to suspend operations until the necessary
+remedies have been put in place.
+
+40. Duties of person employed in mines.– (1) Every person shall strictly adhere to the provisions of the
+Act and of the rules and regulations made thereunder and to any order or direction issued by the manager or
+an official with a view to the safety or convenience of persons not being inconsistent with the Act, rules
+and these regulations; nor shall he neglect or refuse to obey such orders or directions.
+
+180
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+[PART II—SEC. 3(i)]
+
+(2) No person shall interfere with, impede or obstruct any person in the discharge of his duties, nor shall he
+offer or render any service, or use any threat, to any other person with a view to preventing him from
+complying with the provisions of the Act and of the rules and regulations made thereunder or from
+performing his duties faithfully.
+(3) Every person shall, immediately before proceeding to work and immediately after terminating work at
+the end of his shift, have his name recorded in the register maintained under sub-section (4) of section 48 of
+the Act:
+Provided that in case of workings belowground, the person shall get his name recorded every time
+he proceeds belowground or returns to the surface:
+Provided further that electronic punching or registry system as approved by the Chief Inspector
+may also be provided and used for the purpose of identification, marking attendance and recording the
+name of the person and a hard (printed) copy of such record shall be kept forthwith for the purpose of
+record in the aforesaid register or in any other format specified by the Chief Inspector.
+(4) Every person employed in a mine shall(a)
+
+take reasonable care for their own safety and health and that of other persons who may be
+affected by their acts and omissions at work including the proper care and use of protective
+clothing, facilities and equipment placed at their disposal;
+
+(b)
+
+report forthwith to an official, any situation which he believes may pose a risk to hissafety or
+health or that of other persons, and which he may not be able to properly deal with himself;
+and
+
+(c)
+
+co-operate with the employer to permit compliance with the duties and responsibilities placed
+on the employer.
+
+(5) No person shall, except with the authority of an official, remove or pass through any fence, barrier or
+gate, or remove or pass any danger signal.
+(6) Subject to any directions that may be given by an official, no person shall, except for some justifiable
+purpose, go into any part of the mine other than that part in which he works, or travels to or from his
+working place by any roadway other than the proper traveling roadway.
+(7) No person shall sleep while on duty.
+(8) Subject to the provisions of the Act and of these regulations and orders made thereunder, no person
+shall remain in a mine beyond the period over which his shift extends.
+41. Duties of competent person.- Every competent person shall be subject to orders of superior officials,
+and shall not –
+(a)
+
+depute another person to perform his work without the sanction of his superior official;
+
+(b)
+
+absent himself without having previously obtained permission from such official for the term
+of his absence or without having been relieved by a duly competent person; and
+
+(c)
+
+without permission from such official, perform during his shift any duties other than those for
+which he has been appointed.
+
+42. Duties of officials.– (1) Every official shall carry out the duties assigned to him by the manager or
+assistant manager in accordance with the provisions of the Act and of these regulations and orders made
+thereunder.
+(2)
+Every official shall, to the best of his power, see that persons under his charge understand and carry
+out their respective duties properly.
+43. Duties and responsibilities of manager.– (1) In every mine, daily personal supervision shall be
+exercised by the manager:
+Provided that in case of working belowground, he shall visit and examine the working on at least
+four days in every week to ensure safety in every respect:
+Provided further that at least one visit in every fortnight shall be made during the night shift:
+
+¹Hkkx IIµ[k.M 3(i)º
+
+Hkkjr dk jkti=k % vlk/kj.k
+
+181
+
+Provided also that where owing to any unavoidable cause he is unable to carry out the aforesaid
+duties or inspections, he shall record the reasons for the same in the book kept under sub-regulation (2).
+(2) The manager shall maintain, in a bound paged book kept for the purpose, a diary; and shall record
+therein the result of each of his inspections and also the action taken by him to rectify the defects noticed, if
+any.
+(3) The manager shall make arrangements for all overmen and other officials to meet him or the assistant
+manager once in every working day for the purpose of conferring on them matters connected with their
+duties.
+(4) The manager shall ensure sufficient supply of proper materials and appliances for the safety of the mine
+and the persons employed therein; and if he be not the owner or agent of the mine, shall report in writing to
+the owner or agent, when anything is required for the aforesaid purpose that is not within the scope of his
+authority to order, and a copy of every such report shall be recorded in a bound-paged book kept for the
+purpose.
+(5) On receipt of a requisition under sub-regulation (4), the owner or agent shall promptly arrange to supply
+the said materials and appliances, and shall within three days of receipt of the requisition, intimate to the
+manager in writing the action taken to meet the requisition.
+(6) The manager shall assign to every competent person his particular duties and take all possible steps to
+ensure that every such person understands and carries out the provisions contained in the Act and the rules
+or regulations made thereunder in a proper manner.
+(7) The manager shall provide every overman with a tracing, upto the date of the last survey, showing the
+workings of the district belowground assigned to him and such tracing shall, where any work of reduction
+or extraction of pillars is being carried out, show clearly the reference of the permission and the manner in
+which such reduction or extraction is to be carried out:
+Provided that in case of opencast mines, such tracing shall also show the sections of the working
+under his charge.
+(8) The manager shall examine all reports, registers and other records required to be made or kept in
+pursuance of the provisions of the Act or of the regulations or orders made thereunder, and shall
+countersign the same with date:
+Provided that the manager may, by an order in writing, delegate this duty to an assistant manager
+except in cases where a specific provision is made requiring the manager to countersign a report or register.
+(9) The manager shall give attention to, and cause to be carefully investigated any specific representation or
+complaint that may be made to him in writing by an employee of the mine as to any matter affecting the
+safety or health of persons in or about the mine.
+(10) When there occurs in a mine any accident resulting in serious bodily injury or loss of life to any person
+or any dangerous occurrence, as specified under clause (b) of sub-regulation (1) of regulation 8, the
+manager shall, as soon as possible, inspect the site of the accident or the dangerous occurrence, as the case
+may be,and shall also,either himself or through an assistant manager, have an inquiry made into the cause
+and circumstances attending the same and the result of every such enquiry along with a plan and sections
+and, wherever practicable, a photograph or photographs of the site of the accident or dangerous occurrence
+showing details, shall be recorded in a bound paged book kept for the purpose and acopy thereof shall
+befurnished to the Chief Inspector and Regional Inspector within fifteen days of the accident.
+(11) The manager shall perform such other duties as have been prescribed in that behalf under the
+provisions of the Act, the regulations or orders made thereunder.
+(12) The manger may suspend or take such disciplinary action against any employee for contravention of
+any of the provisions of the Act or the regulations and orders made thereunder.
+44. Duties of safety officer.– (1) The duties of the safety officer shall be(a)
+
+to visit surface and underground parts of the mine with a view to meet the workers on the spot,
+to talk to them on matters of safety and invite suggestions thereon;
+
+(b)
+
+to take charge of the newly recruited staff and show them around the mine pointing out the
+safe and unsafe acts during the course of their work in the mine;
+
+182
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+[PART II—SEC. 3(i)]
+
+(c)
+
+to investigate all types of accidents and incidents in the mine including minor accidents and
+analyse the same with a view to pinpoint the nature and common causes of accidents in the
+mine;
+
+(d)
+
+to maintain detailed statistics about mine accidents and to analyse the same with a view to
+pinpoint the nature and common causes of the accidents in the mine;
+
+(e)
+
+to study and apprise the manager of all possible sources of danger such as inundation, fire,
+coal dust and others;
+
+(f)
+
+to hold safety classes and give safety talks and lectures to the members of the supervisory
+staff;
+
+(g)
+
+to organise safety weeks and other safety education and propaganda programmes in mine;
+
+(h)
+
+to see that all concerned mine employees are fully conversant with various standing orders
+(such as those relating to stoppage of mine mechanical ventilators and to the occurrence of a
+fire or other emergency in the mine), codes of practices and support plan;
+
+(i)
+
+to provide assistance in the formulation of programme for training at the mine level, including
+vocational training, training in gas testing, and training in first aid, etc;
+
+(j) to report to the manager as a result of his visits to the various parts of mine, as to whether the
+provisions of the Act, and the rules and regulations made thereunder are being complied with
+in the mine;
+(k)
+
+to promote safe practices generally and to lend active support to all measures intended for
+furthering the cause of safety in the mine and follow up measures for compliance to the
+recommendations of the Safety Committee and Workman’s Inspectors;
+
+(l)
+
+to assist the manager in any other matter relating to safety in the mine.
+
+(2)
+The safety officer shall ensure that an appropriate emergency plan as required under these
+regulations is put in place and the requirements of the same are implemented.
+(3)
+Except in an emergency, no duties other than those specified above shall be assigned to the safety
+officer.
+(4)
+The safety officer shall maintain in a bound paged book a detailed record of the work performed by
+him every day.
+45. Duties and responsibilities of assistant manager.- (1) The assistant manager shall carry out the duties
+assigned to him by the manager, and shall see that in the part of the mine assigned to him by the manager,
+all work is carried out in accordance with the provisions of the Act and of the regulations and orders made
+thereunder.
+(2)
+The assistant manager shall, subject to the orders of the manager, visit and examine the workings
+under his charge, or part thereof, on every working day.
+(3)
+The assistant manager shall, from time to time, carefully examine every travelable part of the mine
+or part thereof placed under his charge, whether frequented by work persons or not.
+(4)
+In the absence of the manager, the assistant manager shall have the same responsibility, discharge
+the same duties and be subject to the same liabilities as the manager, but not so as to exempt the manager
+therefrom.
+(5)
+The assistant manager shall, in a bound paged book kept for the purpose, record the result of each
+of his inspections and also the action taken by him to rectify the defects noticed, if any.
+46. Duties of ventilation officer.– (1) The ventilation officer shall(a)
+
+ensure the observance of all regulations and orders concerning ventilation, spontaneous
+heating, fire, gas and coal dust including dust suppression and shall advise the manager, if any
+alteration is required in the ventilation system to ensure adequacy of ventilation in compliance
+with these regulations or orders;
+
+(b)
+
+advise the manager on day to day problems of ventilation, gas, coal dust, spontaneous heating
+and fire;
+
+¹Hkkx IIµ[k.M 3(i)º
+
+Hkkjr dk jkti=k % vlk/kj.k
+
+183
+
+(c)
+
+maintain close liaison with the assistant managers and other officials, and assist them in their
+day-to-day ventilation problems;
+
+(d)
+
+carry out ventilation surveys of the mine and undertake any other special work relating thereto
+as may be directed by the manager from time to time;
+
+(e)
+
+take such steps as are necessary to ensure compliance with the ventilation standards required
+in terms of these regulations or otherwise;
+
+(f)
+
+check the speed of main mechanical ventilator, amperage drawn by its electric motor, and fan
+drift water gauge at least once in a day and he shall investigate any unusual change in the
+water gauge and report to the manager;
+
+(g)
+
+determine the efficiency of the main mechanical ventilator once at least in every three months
+and get the fan blades and the fan drift cleaned when necessary;
+
+(h)
+
+ensure that copies of standing orders in the event of stoppage of the main mechanical
+ventilator are posted at conspicuous places at the mine, and also ensure that the persons
+concerned understand the instructions contained therein;
+
+(i)
+
+ensure the correct siting and installation of auxiliary and booster fans belowground;
+
+(j)
+
+examine at frequent intervals all ventilation appliances like doors, brattices, air crossings,
+regulators, stoppings, booster and auxiliary fans, ventilation ductings and other devices of
+ventilation control in the mine and report any defect in the same to the manager;
+
+(k)
+
+take necessary steps to stop any leakage through any of the devices and ensure that the
+ventilation appliances are maintained in good order;
+
+(l)
+
+ensure that sufficient quantity of good air is coursed into all working places and reaches all
+workings belowground, and for this purpose, shall (i) see that the ventilation stoppings, brattices, etc., are constructed as per specifications and
+are kept extended sufficiently;
+(ii) see that measurements of air quantity, temperature and humidity are regularly taken as
+specified and bring up-to-date the entries on the check boards provided at each air
+measurement station;
+(iii)
+
+determine the Ventilation Efficiency Quotient (VEQ);
+
+(iv)
+see that mine air samples are properly collected at the appointed time and place,
+and analysed within forty-eight hours of taking thereof; and
+(v)
+
+make observations for inflammable and any other harmful gases;
+
+(m)
+
+maintain separate tracing of the ventilation, rescue, stone dusting and the dust sampling plans
+and bring them up-to-date;
+
+(n)
+
+bring to the notice of surveyor any changes in the ventilation system or ventilation appliances
+and shall ensure that all old markings on the ventilation and rescue plans are corrected and
+new ventilation circuits are shown forthwith;
+
+(o)
+
+regularly check the barometer provided at the mine and report any unusual change in
+barometric pressure to the manager for appropriate actions;
+
+(p)
+
+take care of the instruments and apparatus used in the mines for environmental monitoring and
+ensure that all such instruments are maintained in good order and calibrated at specified
+intervals;
+
+(q)
+
+regularly visit returns of working districts and old workings including fire stoppings, if
+necessary, for symptoms of spontaneous heating and fire and report to the manager forthwith
+any such symptoms observed by him and shall himself take such steps as may be immediately
+necessary for the safety of the workers;
+
+(r)
+
+check the fire fighting measures and take necessary steps by regular rehearsals to ensure that
+all fire fighting equipments are maintained in working order and the concerned staff are fit and
+conversant with their duties in the event of a fire in the mine;
+
+184
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+[PART II—SEC. 3(i)]
+
+(s)
+
+take necessary steps for proper cleaning, treatment and suppression of coal dust in the mine
+and see that the arrangements for wet-cutting at the faces and water spraying at and within
+ninety meters of the working places are properly installed and function satisfactorily;
+
+(t)
+
+ensure that the stone dust barriers are correctly sited, properly constructed and maintained in
+accordance with the statutory requirements or otherwise; and bring the entries on the check
+boards up-to-date from time to time;
+
+(u)
+
+ensure that samples of mine roadway dust and of airborne dust (if required by the manager) are
+regularly taken in the specified manner;
+
+(v)
+
+collect air samples from sealed off areas, exhaust gases from diesel vehicles and from such
+other places as may be required by the manager;
+
+(w)
+
+ensure that all records and reports relating to ventilation, spontaneous heating, fire, gas and
+coal dust are kept up-to-date and entries are made regularly in the check boards for ventilation
+and stone dust barriers:
+
+Provided that nothing contained above shall exempt the manager, assistant manager, surveyor,
+overman, sirdar or any other competent person concerned, from any corresponding duties and
+responsibilities specified for them in these regulations or any orders made thereunder; and
+(x) assist the manager in any matter relating to the ventilation of the mine.
+(2)
+No duties other than those specified above shall be assigned to the ventilation officer except in an
+emergency.
+(3)
+The ventilation officer shall maintain, in a bound paged book, a detailed record of the work
+performed by him every day.
+47. Duties and responsibilities of overman.– (1) The overman shall subject to the orders of superior
+officials, have responsibility, charge and control of such part of the mine, and shall carry out such duties,
+as may be assigned to him by the manager.
+(2)
+
+The overman shall, (a)
+
+while on duty, carry a tracing of the workings of such district and shall keep the tracing up-todate;
+
+(b)
+
+in his district, make the inspections and reports required by these regulations;
+
+(c)
+
+ensure that the subordinate officials and competent persons in his district carry out their
+respective duties in a proper manner;
+
+(d)
+
+ensure that mining operations in the part of the mine assigned to him under sub-regulation (1)
+are carried out as per the code of practices framed under these regulations.
+
+(3)
+The overman shall, to the best of his power, enforce in his district the provisions of the Act, of
+these regulations and orders made thereunder, and shall, subject to the control of manager and the assistant
+manager, if any, give such directions as may be necessary to ensure compliance with those provisions, and
+to secure the safety of the district and the safety and proper discipline of the persons employed therein.
+(4)
+The overman shall see that sufficient supplies of timber, support materials, brattice, tools and
+tackles, appliances, and other necessaries required for the safe working of his district are kept at convenient
+places therein.
+(5)
+
+The overman shall –
+(a)
+
+ensure that every air-crossing, stopping, door, brattice and other ventilation device is
+maintained in good order;
+
+(b)
+
+ensure that the ventilation is effective in his district, and when brattices or air pipes or ducts
+are required to be used for the ventilation of the working places, he shall see that they are kept
+sufficiently advanced so that an adequate amount of air reaches every such working place;
+
+(c)
+
+have power to send out of the mine any person under his charge who infringes or attempts to
+infringe any provision of the Act or of the regulations or orders made thereunder, or fails to
+carry out any direction given with regard to safety, and shall report such matter in writing to
+the manager;
+
+

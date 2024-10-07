@@ -1,0 +1,20 @@
+- username: Vrishank
+  password: 1234
+  interests:
+    - Technology
+    - Music
+    - Sports
+  hobbies:
+    - Playing guitar
+    - Playing basketball
+  occupation: Software Engineer
+- username: John Doe
+  password: 5678
+  interests:
+    - Business
+    - Travel
+    - Food
+  hobbies:
+    - Reading
+    - Cooking
+  occupation: Entrepreneur

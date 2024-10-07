@@ -1,0 +1,10 @@
+-
+  col1: username
+  col2: interests
+  col3: hobbies
+  col4: occupation
+-
+  col1: vrishank
+  col2: ['technology', 'music', 'sports']
+  col3: ['playing guitar', 'playing basketball']
+  col4: 'Software Engineer'
